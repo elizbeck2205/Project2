@@ -1,7 +1,7 @@
 <!-- FIXME : Messy code maybe change organization -->
 
 <?php
-require_once('ExpenseDatabaseFunctions.php');
+require_once 'ExpenseDatabaseFunctions.php';
 require_once 'pageFormat.php';
 
 ?>

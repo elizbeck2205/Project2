@@ -1,5 +1,6 @@
 <?php
 require_once 'pageFormat.php';
+require_once 'IncomeDatabaseFunctions.php';
 
 ?>
 
