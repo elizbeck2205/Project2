@@ -14,7 +14,7 @@
     
 
 
-  <a href="home.php" class="home-button">Home</a>
+  <a href="Home.php" class="home-button">Home</a>
 
     <div class="signup-container">
       <div class="signup-image">
